@@ -3,8 +3,9 @@
 <h1 align="center">Hi 👋, I'm Kaveen</h1>
 
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake">
+  </a>
 </div>
 
 - 🔭 I’m currently working on **Angular, React, Springboot**
