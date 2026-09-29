@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **react, angular and node**
 
-- 📫 Feel free to reach me out **kaveenhansithx@gmail.com**
+- 📫 Feel free to reach me out **hansithkaveen9@gmail.com**
 
 - ⚡ Fun fact **Call me as Kavee**
 
